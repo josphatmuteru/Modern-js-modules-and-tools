@@ -1,0 +1,23 @@
+{
+  "name": "modernjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clean.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josphatmuteru/Modern-js-modules-and-tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josphatmuteru/Modern-js-modules-and-tools/issues"
+  },
+  "homepage": "https://github.com/josphatmuteru/Modern-js-modules-and-tools#readme",
+  "dependencies": {
+    "leaflet": "^1.9.2",
+    "lodash-es": "^4.17.21"
+  }
+}
