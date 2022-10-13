@@ -66,3 +66,7 @@ console.log(stateDeepClone);
 if (module.hot) {
   module.hot.accept();
 }
+
+import 'core-js/stable';
+
+import 'regenerator-runtime/runtime';
